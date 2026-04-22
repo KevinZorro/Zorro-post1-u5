@@ -1,5 +1,22 @@
 ## Capturas
 
+# Crear un libro
+<img width="660" height="487" alt="image" src="https://github.com/user-attachments/assets/635e1e06-5e7a-4825-9c3c-49d31009308f" />
+
+# Listar todos los libros
+<img width="610" height="346" alt="image" src="https://github.com/user-attachments/assets/799c2d4e-6ac8-4cee-a8c2-f2d0bb5ed6d1" />
+
+# Buscar por palabra
+<img width="682" height="347" alt="image" src="https://github.com/user-attachments/assets/97dca185-dd72-4c24-b4e8-971355761fec" />
+
+# Eliminar libro con id=1
+<img width="606" height="174" alt="image" src="https://github.com/user-attachments/assets/046da4dd-0d58-4ea4-b795-a3ef7ec92bb7" />
+
+# Eliminar libro que no existe
+<img width="635" height="271" alt="image" src="https://github.com/user-attachments/assets/16dec3bd-62a6-40ef-9ed1-3e99308ac608" />
+
+# Base de datos en H2
+<img width="623" height="263" alt="image" src="https://github.com/user-attachments/assets/84b320d6-d5aa-416c-8708-49056a161e64" />
 
 
 # biblioteca-api
